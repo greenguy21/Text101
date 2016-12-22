@@ -1,0 +1,17 @@
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEditor.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Pranay/Documents/Unity/Text101/Temp/bin/Debug/Mono.Cecil.Mdb.dll
